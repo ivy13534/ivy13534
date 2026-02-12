@@ -41,23 +41,11 @@ Saya berfokus pada pengembangan backend yang efisien dan manajemen database yang
 
 ### 📂 **Selected Archives (Projects)**
 
-| Repository | Class | Description |
-| :--- | :---: | :--- |
-| **[sinvent_ukk](https://github.com/ivy13534/sinvent_ukk)** | `S-Rank` | 📦 Sistem Inventaris Barang (UKK). Manajemen stok, laporan otomatis, dan level user admin/petugas. |
-| **[cctv_v3](https://github.com/ivy13534/cctv_v3)** | `A-Rank` | 📹 Sistem Monitoring CCTV Versi 3. Integrasi log aktivitas dan dashboard pemantauan area. |
-| **[MPP-Akhir](https://github.com/ivy13534/MPP-Akhir)** | `B-Rank` | 🎓 Proyek Manajemen Perangkat Lunak. Studi kasus analisis sistem dan dokumentasi pengembangan. |
-| **[Final-Project-Sem1](https://github.com/ivy13534/Final-Project-Sem1)** | `Legacy` | 🏛️ Dasar pemrograman web/aplikasi (Project Semester 1). Awal mula perjalanan coding. |
+| Repository | Description |
+| :--- | :--- |
+| **[sinvent_ukk](https://github.com/ivy13534/sinvent_ukk)** | 📦 **Sistem Inventaris Barang (UKK)**.<br>Manajemen stok, laporan otomatis, dan level user admin/petugas. |
+| **[cctv_v3](https://github.com/ivy13534/cctv_v3)** | 📹 **Sistem Monitoring CCTV Versi 3**.<br>Integrasi log aktivitas dan dashboard pemantauan area. |
+| **[MPP-Akhir](https://github.com/ivy13534/MPP-Akhir)** | 🎓 **Proyek Manajemen Perangkat Lunak**.<br>Studi kasus analisis sistem dan dokumentasi pengembangan. |
+| **[Final-Project-Sem1](https://github.com/ivy13534/Final-Project-Sem1)** | 🏛️ **Dasar Pemrograman Web**.<br>Project Semester 1 sebagai awal mula perjalanan coding. |
 
----
-
-### 📊 **Github Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivy13534&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090B14&title_color=00F0FF&icon_color=FFD700" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivy13534&layout=compact&theme=tokyonight&hide_border=true&bg_color=090B14&title_color=00F0FF" height="160px" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<br>
