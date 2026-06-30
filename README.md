@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=090B14&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Ivy's%20Place&fontSize=80&fontColor=090B14&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <h1 align="center">Hi there, I'm Ivy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
   
